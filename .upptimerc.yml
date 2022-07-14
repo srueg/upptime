@@ -2,8 +2,12 @@ owner: srueg
 repo: upptime
 
 sites:
+  - name: Keycloak
+    url: https://sso.srueg.ch/health
   - name: Plex
-    url: https://plex.srueg.ch
+    url: https://plex.srueg.ch/identity
+  - name: NZBGet
+    url: https://nzbget.srueg.ch/ping
   - name: Hacker News
     url: https://news.ycombinator.com
 
