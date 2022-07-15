@@ -22,19 +22,19 @@
     "url": "https://plex.srueg.ch/identity",
     "icon": "https://favicons.githubusercontent.com/plex.srueg.ch",
     "slug": "plex",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 939,
-    "timeDay": 319,
-    "timeWeek": 483,
-    "timeMonth": 939,
-    "timeYear": 939,
+    "status": "up",
+    "uptime": "98.79%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.79%",
+    "time": 910,
+    "timeDay": 331,
+    "timeWeek": 469,
+    "timeMonth": 910,
+    "timeYear": 910,
     "dailyMinutesDown": {
-      "2022-07-15": 0
+      "2022-07-15": 18
     }
   },
   {
