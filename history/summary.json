@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 658,
-    "timeDay": 879,
+    "time": 670,
+    "timeDay": 824,
     "timeWeek": 659,
-    "timeMonth": 658,
-    "timeYear": 658,
+    "timeMonth": 670,
+    "timeYear": 670,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/plex.srueg.ch",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
-    "time": 869,
-    "timeDay": 681,
-    "timeWeek": 801,
-    "timeMonth": 869,
-    "timeYear": 869,
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 862,
+    "timeDay": 652,
+    "timeWeek": 793,
+    "timeMonth": 862,
+    "timeYear": 862,
     "dailyMinutesDown": {
       "2022-07-15": 55
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 631,
-    "timeDay": 796,
-    "timeWeek": 608,
-    "timeMonth": 631,
-    "timeYear": 631,
+    "time": 645,
+    "timeDay": 834,
+    "timeWeek": 613,
+    "timeMonth": 645,
+    "timeYear": 645,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "99.90%",
-    "time": 291,
-    "timeDay": 223,
+    "time": 286,
+    "timeDay": 123,
     "timeWeek": 378,
-    "timeMonth": 291,
-    "timeYear": 291,
+    "timeMonth": 286,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2022-07-08": 525
     }
