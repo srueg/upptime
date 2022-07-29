@@ -4,19 +4,19 @@
     "url": "https://sso.srueg.ch/health",
     "icon": "https://favicons.githubusercontent.com/sso.srueg.ch",
     "slug": "keycloak",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 657,
-    "timeDay": 674,
-    "timeWeek": 669,
-    "timeMonth": 657,
-    "timeYear": 657,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 668,
+    "timeDay": 769,
+    "timeWeek": 693,
+    "timeMonth": 668,
+    "timeYear": 668,
     "dailyMinutesDown": {
-      "2022-07-29": 0
+      "2022-07-29": 12
     }
   },
   {
