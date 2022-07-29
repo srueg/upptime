@@ -4,9 +4,9 @@
     "url": "https://sso.srueg.ch/health",
     "icon": "https://favicons.githubusercontent.com/sso.srueg.ch",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 669,
     "timeMonth": 657,
     "timeYear": 657,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-29": 0
+    }
   },
   {
     "name": "Plex",
@@ -23,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/plex.srueg.ch",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
     "time": 819,
     "timeDay": 602,
     "timeWeek": 523,
