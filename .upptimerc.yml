@@ -4,6 +4,8 @@ repo: upptime
 sites:
   - name: Keycloak
     url: https://sso.srueg.ch/health
+  - name: Home Assistant
+    url: https://home.srueg.ch/manifest.json
   - name: Plex
     url: https://plex.srueg.ch/identity
   - name: NZBGet
