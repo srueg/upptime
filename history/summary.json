@@ -4,18 +4,20 @@
     "url": "https://sso.srueg.ch/health",
     "icon": "https://favicons.githubusercontent.com/sso.srueg.ch",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 630,
-    "timeDay": 586,
-    "timeWeek": 541,
-    "timeMonth": 630,
-    "timeYear": 630,
-    "dailyMinutesDown": {}
+    "time": 667,
+    "timeDay": 1304,
+    "timeWeek": 689,
+    "timeMonth": 667,
+    "timeYear": 667,
+    "dailyMinutesDown": {
+      "2022-08-12": 0
+    }
   },
   {
     "name": "Plex",
@@ -43,18 +45,20 @@
     "url": "https://nzbget.srueg.ch/ping",
     "icon": "https://favicons.githubusercontent.com/nzbget.srueg.ch",
     "slug": "nzb-get",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 534,
-    "timeWeek": 542,
-    "timeMonth": 607,
-    "timeYear": 607,
-    "dailyMinutesDown": {}
+    "time": 647,
+    "timeDay": 1248,
+    "timeWeek": 684,
+    "timeMonth": 647,
+    "timeYear": 647,
+    "dailyMinutesDown": {
+      "2022-08-12": 0
+    }
   },
   {
     "name": "Hacker News",
