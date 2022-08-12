@@ -5,18 +5,36 @@
     "icon": "https://favicons.githubusercontent.com/sso.srueg.ch",
     "slug": "keycloak",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 668,
-    "timeDay": 1106,
-    "timeWeek": 691,
-    "timeMonth": 668,
-    "timeYear": 668,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 667,
+    "timeDay": 984,
+    "timeWeek": 685,
+    "timeMonth": 667,
+    "timeYear": 667,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Home Assistant",
+    "url": "https://home.srueg.ch/manifest.json",
+    "icon": "https://favicons.githubusercontent.com/home.srueg.ch",
+    "slug": "home-assistant",
+    "status": "down",
+    "uptime": "83.15%",
+    "uptimeDay": "83.15%",
+    "uptimeWeek": "83.15%",
+    "uptimeMonth": "83.15%",
+    "uptimeYear": "83.15%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-12": 11
+      "2022-08-12": 0
     }
   },
   {
@@ -30,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
-    "time": 810,
-    "timeDay": 457,
-    "timeWeek": 527,
-    "timeMonth": 694,
-    "timeYear": 810,
+    "time": 803,
+    "timeDay": 459,
+    "timeWeek": 521,
+    "timeMonth": 688,
+    "timeYear": 803,
     "dailyMinutesDown": {
       "2022-07-27": 37,
       "2022-07-15": 55
@@ -46,19 +64,17 @@
     "icon": "https://favicons.githubusercontent.com/nzbget.srueg.ch",
     "slug": "nzb-get",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 648,
-    "timeDay": 1069,
-    "timeWeek": 687,
+    "timeDay": 957,
+    "timeWeek": 681,
     "timeMonth": 648,
     "timeYear": 648,
-    "dailyMinutesDown": {
-      "2022-08-12": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -71,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 321,
-    "timeDay": 517,
-    "timeWeek": 388,
+    "time": 322,
+    "timeDay": 440,
+    "timeWeek": 385,
     "timeMonth": 361,
-    "timeYear": 321,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2022-07-08": 525
     }
