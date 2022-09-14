@@ -1,7 +1,7 @@
-url: https://home.srueg.ch/manifest.json
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-09-13T23:24:42.224Z
+url: https://home.srueg.ch:8443/manifest.json
+status: up
+code: 200
+responseTime: 459
+lastUpdated: 2022-09-14T20:22:22.616Z
 startTime: Fri Aug 12 2022 21:25:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
