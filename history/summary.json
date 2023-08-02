@@ -292,16 +292,16 @@
     "url": "https://nzbget.srueg.ch/ping",
     "icon": "https://icons.duckduckgo.com/ip3/nzbget.srueg.ch.ico",
     "slug": "nzb-get",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "66.71%",
+    "uptimeDay": "66.69%",
     "uptimeWeek": "80.71%",
-    "uptimeMonth": "90.60%",
+    "uptimeMonth": "90.59%",
     "uptimeYear": "99.20%",
-    "time": 1341,
-    "timeDay": 1091,
-    "timeWeek": 2073,
-    "timeMonth": 2217,
+    "time": 1340,
+    "timeDay": 1089,
+    "timeWeek": 2067,
+    "timeMonth": 2214,
     "timeYear": 1360,
     "dailyMinutesDown": {
       "2023-08-02": 434,
@@ -321,8 +321,7 @@
       "2023-07-15": 45,
       "2023-06-20": 29,
       "2023-06-13": 16,
-      "2023-06-10": 17,
-      "2023-06-01": 42
+      "2023-06-10": 17
     }
   },
   {
