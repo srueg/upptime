@@ -1,7 +1,7 @@
 url: https://sso.srueg.ch/health
-status: up
-code: 200
-responseTime: 571
-lastUpdated: 2023-09-16T10:56:38.032Z
+status: down
+code: 530
+responseTime: 100
+lastUpdated: 2023-09-16T11:49:36.085Z
 startTime: 2022-07-14T10:04:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
