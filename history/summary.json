@@ -6,9 +6,9 @@
     "slug": "keycloak",
     "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "77.28%",
+    "uptimeDay": "76.62%",
     "uptimeWeek": "65.45%",
-    "uptimeMonth": "89.32%",
+    "uptimeMonth": "89.30%",
     "uptimeYear": "98.67%",
     "time": 2762,
     "timeDay": 1704,
@@ -16,7 +16,7 @@
     "timeMonth": 4382,
     "timeYear": 2975,
     "dailyMinutesDown": {
-      "2023-09-20": 328,
+      "2023-09-20": 338,
       "2023-09-19": 487,
       "2023-09-18": 1045,
       "2023-09-17": 58,
@@ -129,10 +129,10 @@
     "url": "https://plex.srueg.ch/identity",
     "icon": "https://icons.duckduckgo.com/ip3/plex.srueg.ch.ico",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "98.65%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "71.71%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "71.81%",
     "uptimeMonth": "90.93%",
     "uptimeYear": "98.40%",
     "time": 1316,
@@ -208,8 +208,7 @@
       "2023-01-06": 27,
       "2023-01-05": 21,
       "2022-12-31": 32,
-      "2022-12-27": 35,
-      "2022-12-23": 26
+      "2022-12-27": 35
     }
   },
   {
@@ -219,7 +218,7 @@
     "slug": "nzb-get",
     "status": "down",
     "uptime": "89.85%",
-    "uptimeDay": "50.26%",
+    "uptimeDay": "49.60%",
     "uptimeWeek": "55.45%",
     "uptimeMonth": "14.29%",
     "uptimeYear": "87.95%",
@@ -229,7 +228,7 @@
     "timeMonth": 2099,
     "timeYear": 1597,
     "dailyMinutesDown": {
-      "2023-09-20": 717,
+      "2023-09-20": 727,
       "2023-09-19": 511,
       "2023-09-18": 1163,
       "2023-09-17": 152,
