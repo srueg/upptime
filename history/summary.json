@@ -4,17 +4,17 @@
     "url": "https://sso.srueg.ch/health",
     "icon": "https://icons.duckduckgo.com/ip3/sso.srueg.ch.ico",
     "slug": "keycloak",
-    "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "70.95%",
-    "uptimeWeek": "73.93%",
+    "status": "down",
+    "uptime": "98.87%",
+    "uptimeDay": "71.74%",
+    "uptimeWeek": "74.10%",
     "uptimeMonth": "88.75%",
     "uptimeYear": "98.65%",
-    "time": 2861,
-    "timeDay": 5813,
-    "timeWeek": 4980,
-    "timeMonth": 4719,
-    "timeYear": 3080,
+    "time": 2858,
+    "timeDay": 5809,
+    "timeWeek": 4937,
+    "timeMonth": 4698,
+    "timeYear": 3077,
     "dailyMinutesDown": {
       "2023-09-21": 125,
       "2023-09-20": 454,
@@ -39,7 +39,7 @@
       "2023-07-22": 189,
       "2023-07-21": 39,
       "2023-07-19": 223,
-      "2023-07-18": 116
+      "2023-07-18": 80
     }
   },
   {
@@ -128,7 +128,7 @@
     "status": "up",
     "uptime": "98.65%",
     "uptimeDay": "87.57%",
-    "uptimeWeek": "81.08%",
+    "uptimeWeek": "81.25%",
     "uptimeMonth": "90.56%",
     "uptimeYear": "98.39%",
     "time": 1324,
@@ -221,7 +221,7 @@
     "timeMonth": 2089,
     "timeYear": 1603,
     "dailyMinutesDown": {
-      "2023-09-21": 181,
+      "2023-09-21": 199,
       "2023-09-20": 926,
       "2023-09-19": 511,
       "2023-09-18": 1163,
