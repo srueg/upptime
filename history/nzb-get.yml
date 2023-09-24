@@ -1,7 +1,7 @@
 url: https://nzbget.srueg.ch/ping
-status: down
-code: 503
-responseTime: 307
-lastUpdated: 2023-09-24T04:00:33.880Z
+status: up
+code: 200
+responseTime: 592
+lastUpdated: 2023-09-24T04:30:40.741Z
 startTime: 2022-07-14T10:04:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
