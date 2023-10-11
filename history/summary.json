@@ -118,18 +118,19 @@
     "url": "https://plex.srueg.ch/identity",
     "icon": "https://icons.duckduckgo.com/ip3/plex.srueg.ch.ico",
     "slug": "plex",
-    "status": "up",
-    "uptime": "98.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.42%",
+    "status": "down",
+    "uptime": "98.71%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.41%",
     "uptimeMonth": "90.36%",
     "uptimeYear": "98.39%",
-    "time": 1361,
+    "time": 1363,
     "timeDay": 2417,
     "timeWeek": 1511,
     "timeMonth": 2163,
     "timeYear": 1389,
     "dailyMinutesDown": {
+      "2023-10-11": 0,
       "2023-10-05": 59,
       "2023-10-01": 35,
       "2023-09-24": 75,
@@ -190,8 +191,7 @@
       "2023-02-17": 49,
       "2023-02-11": 17,
       "2023-02-10": 35,
-      "2023-02-07": 52,
-      "2023-02-02": 44
+      "2023-02-07": 52
     }
   },
   {
