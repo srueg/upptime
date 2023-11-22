@@ -4,12 +4,12 @@
     "url": "https://sso.srueg.ch/health",
     "icon": "https://icons.duckduckgo.com/ip3/sso.srueg.ch.ico",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "88.63%",
-    "uptimeWeek": "98.38%",
+    "uptimeDay": "88.60%",
+    "uptimeWeek": "98.37%",
     "uptimeMonth": "99.52%",
-    "uptimeYear": "98.62%",
+    "uptimeYear": "98.63%",
     "time": 2971,
     "timeDay": 6466,
     "timeWeek": 5270,
@@ -37,7 +37,7 @@
       "2023-08-04": 492,
       "2023-08-03": 337,
       "2023-08-02": 258,
-      "2023-07-31": 142
+      "2023-07-31": 106
     }
   },
   {
@@ -93,13 +93,13 @@
     "url": "https://plex.srueg.ch/identity",
     "icon": "https://icons.duckduckgo.com/ip3/plex.srueg.ch.ico",
     "slug": "plex",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "94.87%",
-    "uptimeWeek": "99.27%",
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "94.84%",
+    "uptimeWeek": "99.26%",
     "uptimeMonth": "99.47%",
-    "uptimeYear": "98.63%",
-    "time": 1400,
+    "uptimeYear": "98.64%",
+    "time": 1401,
     "timeDay": 735,
     "timeWeek": 1378,
     "timeMonth": 1618,
@@ -165,8 +165,7 @@
       "2023-05-01": 397,
       "2023-04-23": 19,
       "2023-04-12": 19,
-      "2023-03-24": 19,
-      "2023-03-23": 19
+      "2023-03-24": 19
     }
   },
   {
@@ -174,17 +173,17 @@
     "url": "https://nzbget.srueg.ch/ping",
     "icon": "https://icons.duckduckgo.com/ip3/nzbget.srueg.ch.ico",
     "slug": "nzb-get",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "75.81%",
+    "status": "down",
+    "uptime": "98.88%",
+    "uptimeDay": "75.78%",
     "uptimeWeek": "96.54%",
     "uptimeMonth": "99.06%",
-    "uptimeYear": "98.46%",
-    "time": 1611,
-    "timeDay": 1960,
-    "timeWeek": 1746,
-    "timeMonth": 1175,
-    "timeYear": 1719,
+    "uptimeYear": "98.47%",
+    "time": 1617,
+    "timeDay": 2161,
+    "timeWeek": 1923,
+    "timeMonth": 1281,
+    "timeYear": 1725,
     "dailyMinutesDown": {
       "2023-11-22": 319,
       "2023-11-21": 29,
@@ -204,7 +203,7 @@
       "2023-09-15": 107,
       "2023-09-14": 1284,
       "2023-09-13": 1208,
-      "2023-09-12": 173
+      "2023-09-12": 116
     }
   },
   {
