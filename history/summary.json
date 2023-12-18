@@ -4,18 +4,19 @@
     "url": "https://sso.srueg.ch/health",
     "icon": "https://icons.duckduckgo.com/ip3/sso.srueg.ch.ico",
     "slug": "keycloak",
-    "status": "up",
-    "uptime": "98.46%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.47%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "59.72%",
     "uptimeMonth": "89.18%",
-    "uptimeYear": "97.80%",
+    "uptimeYear": "97.81%",
     "time": 2969,
-    "timeDay": 288,
-    "timeWeek": 395,
-    "timeMonth": 2757,
-    "timeYear": 3301,
+    "timeDay": 397,
+    "timeWeek": 423,
+    "timeMonth": 2730,
+    "timeYear": 3298,
     "dailyMinutesDown": {
+      "2023-12-18": 0,
       "2023-12-16": 758,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
@@ -40,7 +41,7 @@
       "2023-09-07": 16,
       "2023-08-04": 492,
       "2023-08-03": 337,
-      "2023-08-02": 147
+      "2023-08-02": 113
     }
   },
   {
@@ -98,9 +99,9 @@
     "slug": "plex",
     "status": "up",
     "uptime": "98.59%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "59.63%",
-    "uptimeMonth": "89.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "59.72%",
+    "uptimeMonth": "89.94%",
     "uptimeYear": "97.99%",
     "time": 1424,
     "timeDay": 1872,
@@ -108,7 +109,6 @@
     "timeMonth": 1334,
     "timeYear": 1503,
     "dailyMinutesDown": {
-      "2023-12-18": 9,
       "2023-12-16": 758,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
@@ -164,7 +164,8 @@
       "2023-07-04": 22,
       "2023-06-20": 29,
       "2023-06-10": 17,
-      "2023-06-05": 41
+      "2023-06-05": 41,
+      "2023-06-01": 22
     }
   },
   {
