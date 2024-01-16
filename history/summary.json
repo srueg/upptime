@@ -8,7 +8,7 @@
     "uptime": "98.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.13%",
+    "uptimeMonth": "98.29%",
     "uptimeYear": "97.80%",
     "time": 2974,
     "timeDay": 664,
@@ -91,9 +91,9 @@
     "slug": "plex",
     "status": "up",
     "uptime": "98.67%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "98.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.27%",
     "uptimeYear": "97.99%",
     "time": 1466,
     "timeDay": 3959,
@@ -101,7 +101,6 @@
     "timeMonth": 1907,
     "timeYear": 1578,
     "dailyMinutesDown": {
-      "2024-01-15": 9,
       "2024-01-07": 16,
       "2024-01-04": 36,
       "2023-12-16": 758,
@@ -157,7 +156,8 @@
       "2023-07-06": 88,
       "2023-07-05": 17,
       "2023-07-04": 22,
-      "2023-06-20": 29
+      "2023-06-20": 29,
+      "2023-06-10": 17
     }
   },
   {
@@ -169,7 +169,7 @@
     "uptime": "98.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "98.16%",
+    "uptimeMonth": "98.31%",
     "uptimeYear": "97.62%",
     "time": 1621,
     "timeDay": 428,
