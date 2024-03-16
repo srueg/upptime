@@ -4,17 +4,17 @@
     "url": "https://sso.srueg.ch/health",
     "icon": "https://icons.duckduckgo.com/ip3/sso.srueg.ch.ico",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "88.61%",
+    "uptimeDay": "88.60%",
     "uptimeWeek": "98.37%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "97.79%",
     "time": 3076,
-    "timeDay": 7377,
-    "timeWeek": 5374,
-    "timeMonth": 3125,
-    "timeYear": 3408,
+    "timeDay": 7042,
+    "timeWeek": 5200,
+    "timeMonth": 3073,
+    "timeYear": 3405,
     "dailyMinutesDown": {
       "2024-03-16": 164,
       "2023-12-18": 45,
@@ -41,7 +41,7 @@
       "2023-09-11": 75,
       "2023-09-07": 16,
       "2023-08-04": 492,
-      "2023-08-03": 337
+      "2023-08-03": 320
     }
   },
   {
@@ -82,13 +82,13 @@
     "url": "https://plex.srueg.ch/identity",
     "icon": "https://icons.duckduckgo.com/ip3/plex.srueg.ch.ico",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "99.53%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.52%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "97.99%",
-    "time": 1614,
+    "time": 1610,
     "timeDay": 2992,
     "timeWeek": 2513,
     "timeMonth": 1857,
@@ -147,8 +147,7 @@
       "2023-07-30": 15,
       "2023-07-27": 20,
       "2023-07-24": 25,
-      "2023-07-22": 20,
-      "2023-07-19": 25
+      "2023-07-22": 20
     }
   },
   {
@@ -158,9 +157,9 @@
     "slug": "nzb-get",
     "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "78.61%",
-    "uptimeWeek": "96.75%",
-    "uptimeMonth": "99.25%",
+    "uptimeDay": "77.97%",
+    "uptimeWeek": "96.66%",
+    "uptimeMonth": "99.23%",
     "uptimeYear": "98.03%",
     "time": 1684,
     "timeDay": 5846,
@@ -168,7 +167,7 @@
     "timeMonth": 2383,
     "timeYear": 1787,
     "dailyMinutesDown": {
-      "2024-03-16": 308,
+      "2024-03-16": 317,
       "2024-03-14": 20,
       "2024-01-12": 16,
       "2023-12-18": 19,
