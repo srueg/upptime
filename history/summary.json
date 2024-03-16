@@ -4,19 +4,19 @@
     "url": "https://sso.srueg.ch/health",
     "icon": "https://icons.duckduckgo.com/ip3/sso.srueg.ch.ico",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "86.09%",
-    "uptimeWeek": "98.01%",
+    "uptimeDay": "85.98%",
+    "uptimeWeek": "98.00%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "97.79%",
-    "time": 3113,
+    "time": 3115,
     "timeDay": 7617,
     "timeWeek": 5859,
     "timeMonth": 3604,
     "timeYear": 3434,
     "dailyMinutesDown": {
-      "2024-03-16": 200,
+      "2024-03-16": 202,
       "2023-12-18": 45,
       "2023-12-16": 758,
       "2023-12-15": 1440,
@@ -41,7 +41,7 @@
       "2023-09-11": 75,
       "2023-09-07": 16,
       "2023-08-04": 492,
-      "2023-08-03": 320
+      "2023-08-03": 305
     }
   },
   {
@@ -84,9 +84,9 @@
     "slug": "plex",
     "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "97.87%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "97.99%",
     "time": 1615,
     "timeDay": 2456,
@@ -94,7 +94,7 @@
     "timeMonth": 1827,
     "timeYear": 1674,
     "dailyMinutesDown": {
-      "2024-03-16": 31,
+      "2024-03-16": 18,
       "2024-03-12": 30,
       "2024-03-02": 63,
       "2024-02-04": 70,
@@ -147,7 +147,8 @@
       "2023-07-30": 15,
       "2023-07-27": 20,
       "2023-07-24": 25,
-      "2023-07-22": 20
+      "2023-07-22": 20,
+      "2023-07-19": 25
     }
   },
   {
@@ -157,17 +158,17 @@
     "slug": "nzb-get",
     "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "74.81%",
-    "uptimeWeek": "96.20%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "98.04%",
+    "uptimeDay": "74.05%",
+    "uptimeWeek": "96.10%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "98.03%",
     "time": 1702,
     "timeDay": 5912,
     "timeWeek": 4433,
     "timeMonth": 2667,
     "timeYear": 1802,
     "dailyMinutesDown": {
-      "2024-03-16": 363,
+      "2024-03-16": 374,
       "2024-03-14": 20,
       "2024-01-12": 16,
       "2023-12-18": 19,
