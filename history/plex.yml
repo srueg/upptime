@@ -1,7 +1,7 @@
 url: https://plex.srueg.ch/identity
-status: up
-code: 200
-responseTime: 4448
-lastUpdated: 2024-03-16T13:46:38.966Z
+status: down
+code: 503
+responseTime: 2271
+lastUpdated: 2024-03-16T14:45:50.332Z
 startTime: 2022-07-14T10:10:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
