@@ -4,17 +4,17 @@
     "url": "https://sso.srueg.ch/health",
     "icon": "https://icons.duckduckgo.com/ip3/sso.srueg.ch.ico",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "90.62%",
+    "uptimeDay": "90.60%",
     "uptimeWeek": "98.66%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "97.79%",
+    "uptimeYear": "97.80%",
     "time": 3040,
-    "timeDay": 7215,
-    "timeWeek": 4724,
-    "timeMonth": 2521,
-    "timeYear": 3383,
+    "timeDay": 6779,
+    "timeWeek": 4548,
+    "timeMonth": 2482,
+    "timeYear": 3380,
     "dailyMinutesDown": {
       "2024-03-16": 135,
       "2023-12-18": 45,
@@ -41,8 +41,7 @@
       "2023-09-11": 75,
       "2023-09-07": 16,
       "2023-08-04": 492,
-      "2023-08-03": 337,
-      "2023-08-02": 40
+      "2023-08-03": 337
     }
   },
   {
