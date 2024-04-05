@@ -4,18 +4,19 @@
     "url": "https://sso.srueg.ch/health",
     "icon": "https://icons.duckduckgo.com/ip3/sso.srueg.ch.ico",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.59%",
     "uptimeYear": "97.76%",
-    "time": 3197,
-    "timeDay": 402,
-    "timeWeek": 401,
-    "timeMonth": 5510,
-    "timeYear": 3630,
+    "time": 3196,
+    "timeDay": 236,
+    "timeWeek": 368,
+    "timeMonth": 5458,
+    "timeYear": 3627,
     "dailyMinutesDown": {
+      "2024-04-05": 0,
       "2024-03-18": 134,
       "2024-03-17": 1035,
       "2024-03-16": 330,
@@ -39,7 +40,7 @@
       "2023-09-16": 81,
       "2023-09-14": 1217,
       "2023-09-13": 1114,
-      "2023-09-12": 28
+      "2023-09-12": 8
     }
   },
   {
@@ -48,7 +49,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ha.srueg.ch.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "89.09%",
+    "uptime": "89.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -57,7 +58,7 @@
     "timeDay": 557,
     "timeWeek": 449,
     "timeMonth": 446,
-    "timeYear": 562,
+    "timeYear": 553,
     "dailyMinutesDown": {
       "2024-02-24": 1009,
       "2024-02-23": 1440,
@@ -79,18 +80,19 @@
     "url": "https://plex.srueg.ch/identity",
     "icon": "https://icons.duckduckgo.com/ip3/plex.srueg.ch.ico",
     "slug": "plex",
-    "status": "up",
-    "uptime": "98.89%",
-    "uptimeDay": "96.64%",
+    "status": "down",
+    "uptime": "98.90%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.96%",
     "uptimeMonth": "98.45%",
     "uptimeYear": "98.09%",
-    "time": 1652,
-    "timeDay": 1671,
+    "time": 1654,
+    "timeDay": 506,
     "timeWeek": 1974,
     "timeMonth": 2266,
     "timeYear": 1754,
     "dailyMinutesDown": {
+      "2024-04-05": 0,
       "2024-04-04": 48,
       "2024-04-02": 56,
       "2024-03-19": 18,
@@ -138,7 +140,7 @@
       "2023-09-06": 46,
       "2023-09-02": 79,
       "2023-08-29": 42,
-      "2023-08-27": 45
+      "2023-08-27": 19
     }
   },
   {
@@ -146,18 +148,19 @@
     "url": "https://nzbget.srueg.ch/ping",
     "icon": "https://icons.duckduckgo.com/ip3/nzbget.srueg.ch.ico",
     "slug": "nzb-get",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.85%",
     "uptimeYear": "97.72%",
     "time": 1737,
-    "timeDay": 344,
-    "timeWeek": 419,
-    "timeMonth": 3071,
-    "timeYear": 1837,
+    "timeDay": 255,
+    "timeWeek": 387,
+    "timeMonth": 3029,
+    "timeYear": 1835,
     "dailyMinutesDown": {
+      "2024-04-05": 0,
       "2024-03-18": 194,
       "2024-03-17": 1374,
       "2024-03-16": 668,
@@ -182,7 +185,7 @@
       "2023-09-20": 926,
       "2023-09-19": 511,
       "2023-09-18": 1163,
-      "2023-09-17": 85
+      "2023-09-17": 69
     }
   },
   {
