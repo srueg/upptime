@@ -4,17 +4,17 @@
     "url": "https://sso.srueg.ch/health",
     "icon": "https://icons.duckduckgo.com/ip3/sso.srueg.ch.ico",
     "slug": "keycloak",
-    "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "79.87%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "79.85%",
     "uptimeWeek": "97.12%",
     "uptimeMonth": "95.92%",
-    "uptimeYear": "98.15%",
+    "uptimeYear": "98.16%",
     "time": 3189,
-    "timeDay": 648,
-    "timeWeek": 563,
-    "timeMonth": 4925,
-    "timeYear": 3591,
+    "timeDay": 613,
+    "timeWeek": 543,
+    "timeMonth": 4883,
+    "timeYear": 3588,
     "dailyMinutesDown": {
       "2024-04-06": 159,
       "2024-04-05": 131,
@@ -38,7 +38,7 @@
       "2023-09-19": 487,
       "2023-09-18": 1045,
       "2023-09-17": 58,
-      "2023-09-16": 81
+      "2023-09-16": 34
     }
   },
   {
@@ -78,17 +78,17 @@
     "url": "https://plex.srueg.ch/identity",
     "icon": "https://icons.duckduckgo.com/ip3/plex.srueg.ch.ico",
     "slug": "plex",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "84.67%",
+    "status": "down",
+    "uptime": "98.88%",
+    "uptimeDay": "84.65%",
     "uptimeWeek": "96.77%",
     "uptimeMonth": "97.94%",
-    "uptimeYear": "98.05%",
-    "time": 1644,
-    "timeDay": 448,
-    "timeWeek": 1168,
-    "timeMonth": 2052,
-    "timeYear": 1741,
+    "uptimeYear": "98.06%",
+    "time": 1652,
+    "timeDay": 1264,
+    "timeWeek": 1517,
+    "timeMonth": 2117,
+    "timeYear": 1749,
     "dailyMinutesDown": {
       "2024-04-06": 160,
       "2024-04-05": 61,
@@ -137,8 +137,7 @@
       "2023-09-13": 1060,
       "2023-09-12": 80,
       "2023-09-06": 46,
-      "2023-09-02": 79,
-      "2023-08-29": 42
+      "2023-09-02": 79
     }
   },
   {
@@ -146,17 +145,17 @@
     "url": "https://nzbget.srueg.ch/ping",
     "icon": "https://icons.duckduckgo.com/ip3/nzbget.srueg.ch.ico",
     "slug": "nzb-get",
-    "status": "up",
+    "status": "down",
     "uptime": "98.79%",
-    "uptimeDay": "79.87%",
+    "uptimeDay": "79.85%",
     "uptimeWeek": "97.12%",
     "uptimeMonth": "94.19%",
-    "uptimeYear": "97.90%",
+    "uptimeYear": "97.91%",
     "time": 1661,
-    "timeDay": 433,
-    "timeWeek": 433,
-    "timeMonth": 2620,
-    "timeYear": 1820,
+    "timeDay": 440,
+    "timeWeek": 438,
+    "timeMonth": 2595,
+    "timeYear": 1819,
     "dailyMinutesDown": {
       "2024-04-06": 160,
       "2024-04-05": 131,
@@ -182,7 +181,7 @@
       "2023-09-22": 477,
       "2023-09-21": 401,
       "2023-09-20": 926,
-      "2023-09-19": 511
+      "2023-09-19": 453
     }
   },
   {
