@@ -4,17 +4,17 @@
     "url": "https://sso.srueg.ch/health",
     "icon": "https://icons.duckduckgo.com/ip3/sso.srueg.ch.ico",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "71.54%",
+    "uptimeDay": "71.53%",
     "uptimeWeek": "95.93%",
     "uptimeMonth": "95.65%",
-    "uptimeYear": "98.14%",
+    "uptimeYear": "98.15%",
     "time": 3187,
-    "timeDay": 553,
-    "timeWeek": 524,
-    "timeMonth": 4631,
-    "timeYear": 3568,
+    "timeDay": 548,
+    "timeWeek": 527,
+    "timeMonth": 4598,
+    "timeYear": 3565,
     "dailyMinutesDown": {
       "2024-04-06": 278,
       "2024-04-05": 131,
@@ -37,7 +37,7 @@
       "2023-09-20": 454,
       "2023-09-19": 487,
       "2023-09-18": 1045,
-      "2023-09-17": 42
+      "2023-09-17": 15
     }
   },
   {
@@ -79,9 +79,9 @@
     "slug": "plex",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "79.06%",
-    "uptimeWeek": "95.97%",
-    "uptimeMonth": "97.76%",
+    "uptimeDay": "79.72%",
+    "uptimeWeek": "96.07%",
+    "uptimeMonth": "97.78%",
     "uptimeYear": "98.06%",
     "time": 1656,
     "timeDay": 1554,
@@ -89,7 +89,7 @@
     "timeMonth": 2109,
     "timeYear": 1751,
     "dailyMinutesDown": {
-      "2024-04-06": 240,
+      "2024-04-06": 231,
       "2024-04-05": 61,
       "2024-04-04": 48,
       "2024-04-02": 56,
@@ -135,7 +135,8 @@
       "2023-09-14": 1217,
       "2023-09-13": 1060,
       "2023-09-12": 80,
-      "2023-09-06": 46
+      "2023-09-06": 46,
+      "2023-09-02": 26
     }
   },
   {
@@ -143,17 +144,17 @@
     "url": "https://nzbget.srueg.ch/ping",
     "icon": "https://icons.duckduckgo.com/ip3/nzbget.srueg.ch.ico",
     "slug": "nzb-get",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "71.53%",
+    "status": "down",
+    "uptime": "98.83%",
+    "uptimeDay": "71.52%",
     "uptimeWeek": "95.93%",
     "uptimeMonth": "93.92%",
-    "uptimeYear": "97.96%",
-    "time": 1661,
-    "timeDay": 424,
+    "uptimeYear": "97.97%",
+    "time": 1660,
+    "timeDay": 425,
     "timeWeek": 426,
-    "timeMonth": 2423,
-    "timeYear": 1811,
+    "timeMonth": 2401,
+    "timeYear": 1810,
     "dailyMinutesDown": {
       "2024-04-06": 279,
       "2024-04-05": 131,
@@ -178,8 +179,7 @@
       "2023-09-23": 668,
       "2023-09-22": 477,
       "2023-09-21": 401,
-      "2023-09-20": 926,
-      "2023-09-19": 77
+      "2023-09-20": 926
     }
   },
   {
