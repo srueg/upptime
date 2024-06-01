@@ -14,7 +14,7 @@
     "timeDay": 346,
     "timeWeek": 399,
     "timeMonth": 481,
-    "timeYear": 3552,
+    "timeYear": 3553,
     "dailyMinutesDown": {
       "2024-05-10": 19,
       "2024-04-06": 448,
@@ -143,18 +143,19 @@
     "url": "https://nzbget.srueg.ch/ping",
     "icon": "https://icons.duckduckgo.com/ip3/nzbget.srueg.ch.ico",
     "slug": "nzb-get",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "97.98%",
+    "uptimeYear": "97.99%",
     "time": 1646,
-    "timeDay": 370,
-    "timeWeek": 414,
-    "timeMonth": 468,
-    "timeYear": 1802,
+    "timeDay": 373,
+    "timeWeek": 409,
+    "timeMonth": 465,
+    "timeYear": 1801,
     "dailyMinutesDown": {
+      "2024-06-01": 0,
       "2024-05-10": 18,
       "2024-04-27": 29,
       "2024-04-06": 479,
@@ -180,7 +181,7 @@
       "2023-09-23": 668,
       "2023-09-22": 477,
       "2023-09-21": 401,
-      "2023-09-20": 620
+      "2023-09-20": 599
     }
   },
   {
@@ -196,7 +197,7 @@
     "uptimeYear": "99.89%",
     "time": 323,
     "timeDay": 378,
-    "timeWeek": 353,
+    "timeWeek": 343,
     "timeMonth": 310,
     "timeYear": 332,
     "dailyMinutesDown": {
