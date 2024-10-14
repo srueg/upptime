@@ -1,7 +1,7 @@
 url: https://ha.srueg.ch/manifest.json
-status: down
-code: 502
-responseTime: 541
-lastUpdated: 2024-10-14T09:51:44.963Z
+status: up
+code: 200
+responseTime: 647
+lastUpdated: 2024-10-14T10:10:05.456Z
 startTime: 2022-08-12T21:25:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
