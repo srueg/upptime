@@ -3,7 +3,7 @@ repo: upptime
 
 sites:
   - name: Keycloak
-    url: https://sso.srueg.ch/health
+    url: https://sso.srueg.ch/realms/labhttps://sso.srueg.ch/realms/lab
   - name: Home Assistant
     url: https://ha.srueg.ch/manifest.json
   - name: Plex
