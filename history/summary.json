@@ -220,18 +220,19 @@
     "url": "https://plex.srueg.ch/identity",
     "icon": "https://icons.duckduckgo.com/ip3/plex.srueg.ch.ico",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "95.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.75%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "88.84%",
-    "time": 2152,
+    "time": 2154,
     "timeDay": 335,
     "timeWeek": 1341,
     "timeMonth": 1874,
     "timeYear": 2257,
     "dailyMinutesDown": {
+      "2025-01-13": 0,
       "2025-01-08": 92,
       "2025-01-02": 19,
       "2024-12-09": 17,
@@ -319,7 +320,7 @@
       "2024-04-02": 56,
       "2024-03-19": 18,
       "2024-03-18": 103,
-      "2024-03-17": 279
+      "2024-03-17": 249
     }
   },
   {
@@ -328,7 +329,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nzbget.srueg.ch.ico",
     "slug": "nzb-get",
     "status": "up",
-    "uptime": "95.01%",
+    "uptime": "95.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
