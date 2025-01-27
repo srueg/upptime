@@ -226,13 +226,13 @@
     "url": "https://plex.srueg.ch/identity",
     "icon": "https://icons.duckduckgo.com/ip3/plex.srueg.ch.ico",
     "slug": "plex",
-    "status": "up",
-    "uptime": "95.61%",
-    "uptimeDay": "98.16%",
+    "status": "down",
+    "uptime": "95.62%",
+    "uptimeDay": "98.15%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "88.84%",
-    "time": 2178,
+    "uptimeYear": "88.85%",
+    "time": 2180,
     "timeDay": 4337,
     "timeWeek": 3181,
     "timeMonth": 1893,
@@ -328,7 +328,7 @@
       "2024-04-02": 56,
       "2024-03-19": 18,
       "2024-03-18": 103,
-      "2024-03-17": 199
+      "2024-03-17": 173
     }
   },
   {
