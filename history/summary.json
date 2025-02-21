@@ -135,11 +135,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ha.srueg.ch.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "91.20%",
+    "uptime": "91.21%",
     "uptimeDay": "62.38%",
     "uptimeWeek": "94.63%",
-    "uptimeMonth": "83.41%",
-    "uptimeYear": "85.65%",
+    "uptimeMonth": "83.59%",
+    "uptimeYear": "85.67%",
     "time": 669,
     "timeDay": 5228,
     "timeWeek": 4485,
@@ -219,8 +219,7 @@
       "2024-04-23": 67,
       "2024-04-22": 13,
       "2024-02-24": 1009,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
