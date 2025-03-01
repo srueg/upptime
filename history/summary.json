@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sso.srueg.ch.ico",
     "slug": "keycloak",
     "status": "down",
-    "uptime": "88.86%",
+    "uptime": "88.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -226,18 +226,19 @@
     "url": "https://plex.srueg.ch/identity",
     "icon": "https://icons.duckduckgo.com/ip3/plex.srueg.ch.ico",
     "slug": "plex",
-    "status": "up",
-    "uptime": "95.70%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.71%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.74%",
-    "uptimeYear": "88.69%",
-    "time": 2311,
+    "uptimeYear": "88.70%",
+    "time": 2314,
     "timeDay": 638,
     "timeWeek": 4209,
     "timeMonth": 3241,
     "timeYear": 2373,
     "dailyMinutesDown": {
+      "2025-03-01": 0,
       "2025-02-15": 23,
       "2025-02-14": 41,
       "2025-02-13": 213,
@@ -333,7 +334,7 @@
       "2024-04-04": 48,
       "2024-04-02": 56,
       "2024-03-19": 18,
-      "2024-03-18": 103
+      "2024-03-18": 28
     }
   },
   {
