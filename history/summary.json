@@ -135,7 +135,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ha.srueg.ch.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "91.34%",
+    "uptime": "91.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.99%",
     "uptimeMonth": "97.20%",
@@ -228,18 +228,19 @@
     "url": "https://plex.srueg.ch/identity",
     "icon": "https://icons.duckduckgo.com/ip3/plex.srueg.ch.ico",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "95.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.92%",
     "uptimeMonth": "97.51%",
-    "uptimeYear": "88.69%",
-    "time": 2251,
+    "uptimeYear": "88.70%",
+    "time": 2253,
     "timeDay": 375,
     "timeWeek": 3371,
-    "timeMonth": 3235,
+    "timeMonth": 3148,
     "timeYear": 2407,
     "dailyMinutesDown": {
+      "2025-03-11": 0,
       "2025-03-07": 26,
       "2025-03-05": 84,
       "2025-03-01": 35,
@@ -335,8 +336,7 @@
       "2024-05-02": 28,
       "2024-04-06": 378,
       "2024-04-05": 61,
-      "2024-04-04": 48,
-      "2024-04-02": 27
+      "2024-04-04": 48
     }
   },
   {
