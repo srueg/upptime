@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/sso.srueg.ch.ico",
     "slug": "keycloak",
     "status": "down",
-    "uptime": "90.54%",
+    "uptime": "90.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.09%",
+    "uptimeYear": "78.14%",
     "time": 518,
     "timeDay": 519,
-    "timeWeek": 584,
+    "timeWeek": 580,
     "timeMonth": 549,
     "timeYear": 487,
     "dailyMinutesDown": {
@@ -94,8 +94,7 @@
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
-      "2024-08-20": 1440,
-      "2024-08-19": 1440
+      "2024-08-20": 1440
     }
   },
   {
@@ -110,9 +109,9 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "97.54%",
     "time": 840,
-    "timeDay": 319,
-    "timeWeek": 438,
-    "timeMonth": 499,
+    "timeDay": 343,
+    "timeWeek": 443,
+    "timeMonth": 500,
     "timeYear": 1015,
     "dailyMinutesDown": {
       "2025-08-18": 61,
@@ -159,11 +158,11 @@
     "uptimeWeek": "98.51%",
     "uptimeMonth": "97.52%",
     "uptimeYear": "88.62%",
-    "time": 2615,
-    "timeDay": 8235,
-    "timeWeek": 4175,
-    "timeMonth": 2943,
-    "timeYear": 2625,
+    "time": 2621,
+    "timeDay": 6182,
+    "timeWeek": 4878,
+    "timeMonth": 2967,
+    "timeYear": 2637,
     "dailyMinutesDown": {
       "2025-08-12": 150,
       "2025-08-09": 140,
@@ -264,8 +263,7 @@
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 154,
-      "2024-08-20": 38,
-      "2024-08-19": 18
+      "2024-08-20": 38
     }
   },
   {
@@ -280,9 +278,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "89.09%",
     "time": 489,
-    "timeDay": 479,
-    "timeWeek": 482,
-    "timeMonth": 484,
+    "timeDay": 446,
+    "timeWeek": 488,
+    "timeMonth": 487,
     "timeYear": 442,
     "dailyMinutesDown": {
       "2025-08-09": 23,
@@ -364,10 +362,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 324,
-    "timeDay": 500,
-    "timeWeek": 314,
-    "timeMonth": 354,
+    "time": 323,
+    "timeDay": 388,
+    "timeWeek": 316,
+    "timeMonth": 352,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2025-05-27": 18,
